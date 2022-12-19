@@ -4,7 +4,7 @@
   "description": "Algorithm Questions",
   "main": "index.js",
   "scripts": {
-    "run:q1": "ts-node 1/permutation-sum.ts",
+    "run:q1": "ts-node questions/1/permutation-sum.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
