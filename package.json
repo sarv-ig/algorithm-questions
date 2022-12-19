@@ -1,0 +1,24 @@
+{
+  "name": "algorithm-questions",
+  "version": "1.0.0",
+  "description": "Algorithm Questions",
+  "main": "index.js",
+  "scripts": {
+    "run:q1": "ts-node 1/permutation-sum.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarv-ig/algorithm-questions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarv-ig/algorithm-questions/issues"
+  },
+  "homepage": "https://github.com/sarv-ig/algorithm-questions#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  }
+}
