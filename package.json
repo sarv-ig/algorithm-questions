@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "run:q1": "ts-node questions/1/permutation-sum.ts",
+    "run:q2": "ts-node questions/2/word-dictionary.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
